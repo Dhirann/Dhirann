@@ -1,7 +1,8 @@
 # dhiran
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0C59F7&random=false&width=435&lines=Hi+there!;My+name+is+Dhiran+Daniel;I'm+passionate+about+web+development)](https://git.io/typing-svg) 
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0C59F7&random=false&width=435&lines=Hi+there!;My+name+is+Dhiran+Daniel;I'm+passionate+about+web+development)](https://git.io/typing-svg)
 </div>
     
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
