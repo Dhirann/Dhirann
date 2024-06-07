@@ -1,8 +1,7 @@
 # dhiran
 
 <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=f9f9f9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+Dhiran+Daniel;I'm+24+years+old)](https://github.com/jesusbgk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0C59F7&random=false&width=435&lines=Hi+there!;My+name+is+Dhiran+Daniel;I'm+passionate+about+web+development)](https://git.io/typing-svg) 
 </div>
     
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
@@ -25,4 +24,3 @@ const dhiran = {
 [![Skills](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,mysql,sqlite,nodejs,java,bots,git,jquery,blender,vscode&theme=dark)](https://github.com/dhiran)
 <br>
  </div>
-<a href = "https://github.com/dhiran"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
